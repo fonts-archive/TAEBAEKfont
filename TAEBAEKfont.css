@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'TAEBAEK font';
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.ttf') format('truetype');
+  font-family: 'TAEBAEK font';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKfont/TAEBAEKfont.ttf') format('truetype');
 }
